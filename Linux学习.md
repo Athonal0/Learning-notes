@@ -81,7 +81,6 @@
         - [2）zip/unzip指令](#2zipunzip指令)
         - [3）tar指令](#3tar指令)
 
-[TOC]
 
 学习视频[【小白入门 通俗易懂】2021韩顺平 一周学会Linux_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Sv411r7vd?p=1&vd_source=eeae710419e6a12e4f563be8a991eec7)
 
